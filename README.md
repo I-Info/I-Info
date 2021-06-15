@@ -6,6 +6,6 @@
 - Dev domain: iinfo.dev
 
 ### GitHub stats: 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Info&show_icons=true&theme=dark&line_height=40&count_private=true)](https://github.com/I-Info/I-Info)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Info&theme=dark)](https://github.com/I-Info/I-Info)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Info&show_icons=true&line_height=40&count_private=true)](https://github.com/I-Info/I-Info)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Info)](https://github.com/I-Info/I-Info)
 
