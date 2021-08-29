@@ -10,6 +10,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Info&layout=compact)](https://github.com/I-Info/I-Info)
 
 ### TODO
-- [ ] iclipboard 跨平台云剪贴板（服务端语言rust，桌面端视情况而定，移动端尽量各平台都做起来）
-- [ ] page 个人导航页。
-- [ ] JHBBS 某个神奇论坛.
+- [ ] iclipboard 跨平台云剪贴板
+- [ ] page 个人导航页
+- [ ] JHBBS 某个神奇论坛
