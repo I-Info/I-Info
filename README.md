@@ -1,4 +1,4 @@
-## Hi, this is a.e.
+## Hi!
 
 ### Some details: 
 - Blog: [1inf0](https://www.1inf0.com)
