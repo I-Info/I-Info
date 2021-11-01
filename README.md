@@ -1,7 +1,7 @@
 ## Hi!
 
 ### Some details: 
-- Blog: [1inf0](https://www.1inf0.com)
+- Blog: [i1nfo](https://www.i1nfo.com)
 - BiliBili: [I_Info](https://space.bilibili.com/323343515)
 - Dev domain: iinfo.dev
 
@@ -12,4 +12,3 @@
 ### TODO
 - [ ] iclipboard 跨平台云剪贴板
 - [ ] page 个人导航页
-- [ ] JHBBS 某个神奇论坛
