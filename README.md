@@ -10,5 +10,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Info&layout=compact)](https://github.com/I-Info/I-Info)
 
 ### TODO
-- [ x ] IClipboard 跨平台云剪贴板
+- [x] IClipboard 跨平台云剪贴板
 - [ ] page 个人导航页
