@@ -9,6 +9,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Info&show_icons=true&count_private=true&theme=onedark)](https://github.com/I-Info/I-Info)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Info&layout=compact&theme=onedark)](https://github.com/I-Info/I-Info)
 
-### TODO
-- [x] IClipboard 跨平台云剪贴板
-- [ ] page 个人导航页
+### Developing
+- [yxy](https://github.com/I-Info/yxy)
