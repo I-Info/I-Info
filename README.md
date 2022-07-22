@@ -9,5 +9,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Info&show_icons=true&count_private=true&theme=onedark)](https://github.com/I-Info/I-Info)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Info&layout=compact&theme=onedark)](https://github.com/I-Info/I-Info)
 
-### Developing
+### Developing:
 - [yxy](https://github.com/I-Info/yxy)
